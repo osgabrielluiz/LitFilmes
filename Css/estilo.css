@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(96, 0, 134);
+    background-color: rgb(46, 46, 46);
 }
 h1, h2, h3{
     font-family: 'Roboto Slab', serif;
@@ -30,7 +30,7 @@ height: 25px;
     margin-bottom: 40px;
 }
 .classificacao{
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     width: 40px;
     height: 23px;
@@ -38,10 +38,11 @@ height: 25px;
 }
 
 main{
-    background-color: rgb(230, 230, 230);
-    width: 98%;
+    background-color: rgb(184, 184, 184);
+    width: 80%;
     margin: auto;
 }
+
 .filme{
     padding-left: 7px;
     width: 95%;
